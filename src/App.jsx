@@ -1,5 +1,5 @@
 export default function App() {
-  const fields = ["Your Name:", "Email:", "Message:"];
+  const fields = ["Your Name:", "Email:", "Your github link:"];
 
   return (
     <div className="min-h-screen bg-[#f4eefb] p-6 flex justify-center">
